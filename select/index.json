@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "La Dolce Vita",
+  "base_artist": "After Dark",
+  "createdAt": "2026-02-25T11:21:25.373945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La dolce vita",
+      "artist": "Christophe feat. Julien Doré",
+      "has_synced": true,
+      "path": "select/01_La_dolce_vita_Christophe_feat._Julien_Doré.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Dolce Vita",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/02_La_Dolce_Vita_Sparks.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Dolce Vita (Extended Version) (Remastered)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/03_La_Dolce_Vita_(Extended_Version)_(Remastered)_Sparks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La dolce vita",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/04_La_dolce_vita_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La dolce vita",
+      "artist": "Zazie",
+      "has_synced": true,
+      "path": "select/05_La_dolce_vita_Zazie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Dolce Vita",
+      "artist": "Christophe",
+      "has_synced": true,
+      "path": "select/06_La_Dolce_Vita_Christophe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Dolce Vita",
+      "artist": "Paul van Dyk",
+      "has_synced": false,
+      "path": "select/07_La_Dolce_Vita_Paul_van_Dyk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Dolce Vita",
+      "artist": "Paul van Dyk feat. Giuseppe Ottaviani",
+      "has_synced": false,
+      "path": "select/08_La_Dolce_Vita_Paul_van_Dyk_feat._Giuseppe_Ottaviani.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LA DOLCE VITA",
+      "artist": "Fedez feat. Tananai & Mara Sattei",
+      "has_synced": true,
+      "path": "select/09_LA_DOLCE_VITA_Fedez_feat._Tananai_&_Mara_Sattei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LA DOLCE VITA",
+      "artist": "Fedez, Tananai & Mara Sattei",
+      "has_synced": true,
+      "path": "select/10_LA_DOLCE_VITA_Fedez,_Tananai_&_Mara_Sattei.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LA DOLCE VITA",
+      "artist": "Fedez",
+      "has_synced": true,
+      "path": "select/11_LA_DOLCE_VITA_Fedez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La dolce vita",
+      "artist": "Lacrim",
+      "has_synced": true,
+      "path": "select/12_La_dolce_vita_Lacrim.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Dolce Vita",
+      "artist": "AfterDark",
+      "has_synced": false,
+      "path": "select/pl_01_La_Dolce_Vita_AfterDark.txt"
+    }
+  ]
+}
